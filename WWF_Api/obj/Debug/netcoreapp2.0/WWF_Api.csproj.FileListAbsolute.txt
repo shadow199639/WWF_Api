@@ -1,0 +1,11 @@
+D:\Progs\Android\WWF_Api\WWF_Api\bin\Debug\netcoreapp2.0\WWF_Api.deps.json
+D:\Progs\Android\WWF_Api\WWF_Api\bin\Debug\netcoreapp2.0\WWF_Api.runtimeconfig.json
+D:\Progs\Android\WWF_Api\WWF_Api\bin\Debug\netcoreapp2.0\WWF_Api.runtimeconfig.dev.json
+D:\Progs\Android\WWF_Api\WWF_Api\bin\Debug\netcoreapp2.0\WWF_Api.dll
+D:\Progs\Android\WWF_Api\WWF_Api\bin\Debug\netcoreapp2.0\WWF_Api.pdb
+D:\Progs\Android\WWF_Api\WWF_Api\obj\Debug\netcoreapp2.0\WWF_Api.csprojAssemblyReference.cache
+D:\Progs\Android\WWF_Api\WWF_Api\obj\Debug\netcoreapp2.0\WWF_Api.csproj.CoreCompileInputs.cache
+D:\Progs\Android\WWF_Api\WWF_Api\obj\Debug\netcoreapp2.0\WWF_Api.AssemblyInfoInputs.cache
+D:\Progs\Android\WWF_Api\WWF_Api\obj\Debug\netcoreapp2.0\WWF_Api.AssemblyInfo.cs
+D:\Progs\Android\WWF_Api\WWF_Api\obj\Debug\netcoreapp2.0\WWF_Api.dll
+D:\Progs\Android\WWF_Api\WWF_Api\obj\Debug\netcoreapp2.0\WWF_Api.pdb
